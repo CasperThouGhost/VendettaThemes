@@ -3,8 +3,8 @@ name: Miles Morales;
 description: Miles Morales Theme;
 authors: [ 
 	{
-		 name: mrfreshmeat;
-		 id: string;
+		 name: @mrfreshmeat;
+		 id: 694388802621538335;
 	}
 ],
 spec: 2;
