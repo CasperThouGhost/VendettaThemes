@@ -1,0 +1,25 @@
+{
+name: Miles Morales;
+description: Miles Morales Theme;
+authors: [ 
+	{
+		 name: mrfreshmeat;
+		 id: string;
+	}
+],
+spec: 2;
+semanticColors: { 
+									"HEADER_PRIMARY": "[ #FF0000, #FF0000, #FF0000 ]"
+									            // [ Dark theme, light, amoled ]
+															// all #hex        
+};
+rawColors: { 
+						"PRIMARY_500": "#FF0000"
+															// #hex
+},
+"background": {
+    "blur": 0.1, // background blur
+    "url": "https://imgur.com/gallery/wQK3Byd",
+    "alpha": 1.0 // background opacity
+    },
+}
